@@ -12,6 +12,8 @@ import com.xeiam.xchange.service.polling.BasePollingService;
 
 /**
  * @author kpysniak
+ * 
+ * TODO: We should add support for rate limiting API calls.
  */
 public class BTCCentralBasePollingService extends BaseExchangeService implements BasePollingService {
 
